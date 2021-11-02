@@ -15,11 +15,23 @@ The player will suit up and launch an attack against the alien fighters to preve
 -	Each level will have objectives to complete.
 -	Kill the boss at the end and you win!
 
-
-![image](https://user-images.githubusercontent.com/43836090/139782245-14e3a31b-df5a-4bce-bdda-9008ba83ba65.png)
-
-![image](https://user-images.githubusercontent.com/43836090/139782193-fe83b4e1-b94d-48be-8aa7-ccdadc40f0e4.png)
-
+Enemies
+-	Pod Fighters
+  o	Small light armor space crafts with one main weapon for attacking.
+-	Scavengers Pirates
+  o	They will shoot big bullets at you for big damage
+  o	They will follow your movements
+-	Boss
+  o	Random attack shoots in all directions
+  o	Spawn enemies
+  o	Shoots big weapon
+Power-ups
+-	+1 Life 
+  o	Brings shields to full health if gathered.
+-	Rapid fire with extra weapon
+  o	Increases rate of fire to maximum potential (with a 10-20 second time interval).
+-	Health replenish
+  o	100 health
 
 Sorry, for the lag in the gif's, but they should give you a good idea of what the game is like! Hope you like it!
 
