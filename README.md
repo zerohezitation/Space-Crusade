@@ -1,5 +1,6 @@
 # Space Crusade
 This project was created as part of an assignment for a class I took at Arizona State University. A lot of time an effort went into desgning, planning, and learning GameMaker Studio. 
+
 Sorry, for the lag in the gif's, but they should give you a good idea of what the game is like! Hope you like it!
 
 ![alt text](images/testing.jpg)
