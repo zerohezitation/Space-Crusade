@@ -16,7 +16,7 @@ The player will suit up and launch an attack against the alien fighters to preve
 -	Kill the boss at the end and you win!
 
 Enemies
--	Pod Fighters
+-	Pod Fighters\n
   o	Small light armor space crafts with one main weapon for attacking.
 -	Scavengers Pirates
   o	They will shoot big bullets at you for big damage
