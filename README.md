@@ -1,5 +1,4 @@
 # Space Crusade
-This project was created as part of an assignment for a class I took at Arizona State University. A lot of time an effort went into desgning, planning, and learning GameMaker Studio. 
 
 # Overview
 Space Crusade is a shooting simulation game that focuses on objectives to complete certain levels. The game will not only challenge your ability to navigate through various obstacles, but also test your abilities to complete level specific tasks that involve the player to be conscientious of their actions while playing the game as well. The goal depending on the level will increase in difficulty and add either more of a certain task or introduce new tasks that will challenge the player to morph their gameplay style based on the objectives given in each level.
