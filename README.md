@@ -16,25 +16,14 @@ The player will suit up and launch an attack against the alien fighters to preve
 -	Kill the boss at the end and you win!
 
 Enemies
--	Pod Fighters\n
-  o	Small light armor space crafts with one main weapon for attacking.
--	Scavengers Pirates
-  o	They will shoot big bullets at you for big damage
-  o	They will follow your movements
--	Boss
-  o	Random attack shoots in all directions
-  o	Spawn enemies
-  o	Shoots big weapon
+-	Pod Fighters: Small light armor space crafts with one main weapon for attacking.
+-	Scavengers Pirates: They will shoot big bullets at you for big damage & track your movements.
+-	Boss: Random attack patterns in all directions & sends enemies in waves.
+
 Power-ups
--	+1 Life
-
-  o Brings shields to full health if gathered.
--	Rapid fire with extra weapon
-
-  o	Increases rate of fire to maximum potential (with a 10-20 second time interval).
--	Health replenish
-
-  o	100 health
+-	+1 Life: Increases the number of lives you have.
+-	Rapid fire: Increases rate of fire to maximum potential (with a 10-20 second time interval).
+-	Health replenish: Health replenishes to full.
 
 Sorry, for the lag in the gif's, but they should give you a good idea of what the game is like! Hope you like it!
 
