@@ -26,11 +26,14 @@ Enemies
   o	Spawn enemies
   o	Shoots big weapon
 Power-ups
--	+1 Life 
-  o	Brings shields to full health if gathered.
+-	+1 Life
+
+  o Brings shields to full health if gathered.
 -	Rapid fire with extra weapon
+
   o	Increases rate of fire to maximum potential (with a 10-20 second time interval).
 -	Health replenish
+
   o	100 health
 
 Sorry, for the lag in the gif's, but they should give you a good idea of what the game is like! Hope you like it!
